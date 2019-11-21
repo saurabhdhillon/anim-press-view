@@ -1,0 +1,2 @@
+include ':app', ':animpresseffect', ':kyc-camera-view'
+rootProject.name='Anim-Press-Effect'

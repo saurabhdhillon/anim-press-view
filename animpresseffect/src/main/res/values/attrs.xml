@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PressEffectButton">
+        <attr name="button_scale" format="float" />
+        <attr name="button_duration" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="PressEffectContainerLayout">
+        <attr name="layout_scale" format="float" />
+        <attr name="layout_duration" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="PressEffectCardView">
+        <attr name="card_scale" format="float" />
+        <attr name="card_duration" format="integer" />
+    </declare-styleable>
+</resources>
