@@ -45,7 +45,6 @@
 
     </com.animation.animpresseffect.PressEffectCardView>
 
-
     <com.animation.animpresseffect.PressEffectContainerLayout
         android:id="@+id/container"
         android:layout_width="match_parent"
@@ -87,7 +86,6 @@
                 android:textSize="16dp" />
 
         </androidx.appcompat.widget.LinearLayoutCompat>
-
 
     </com.animation.animpresseffect.PressEffectContainerLayout>
 
