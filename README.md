@@ -59,7 +59,6 @@ dependencies {
 ```
 
 ### PressAnimContainerLayout
-PressEffectContainerLayout gives push/pop click effect to all child views.
 
 ```gradle
 <com.animation.animpresseffect.PressEffectContainerLayout
